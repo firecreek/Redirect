@@ -1,0 +1,24 @@
+div.route {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border-radius: 5px 5px 5px 5px;
+    margin-bottom: 15px;
+    padding:15px;
+}
+
+div.route input { font-size:18px; padding:5px; }
+div.route label { font-size:14px; }
+
+
+div.route .actions { float:right; padding:0; }
+div.route .actions a { color:#222222; font-size:11px; }
+
+div.route div.input { margin:0; }
+
+div.route div.input.url input { width:98%; }
+div.route div.input.forward input { width:98%; }
+div.route div.input.code input { width:90%; }
+
+
+div.route div.input.url { margin:10px 0; }
+div.route div.input.forward { width:70%; float:left; }
+div.route div.input.code { width:25%; margin-left:5%; float:left; }
