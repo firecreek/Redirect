@@ -1,0 +1,18 @@
+Croogo Redirect plugin
+------------------------------
+Plugin to redirect pages.
+
+Useful when replacing an old website to new
+
+
+How to use
+------------------------------
+- Log in to admin panel
+- Go to Extensions > Plugins page
+- Upload the zip file (available here)
+- Click on tick/cross icon of 'Redirect' for activating or deactivating the plugin
+
+
+Notes
+------------------------------
+- Make sure config/redirect_routes.php is writable by your web server
